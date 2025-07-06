@@ -1,0 +1,6 @@
+[Extract Nodejs here]
+
+looks like
+node.exe[file][***]
+npx[file]
+npx.ps1[file]

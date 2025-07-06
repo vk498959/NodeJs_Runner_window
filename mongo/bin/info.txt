@@ -1,0 +1,11 @@
+[Extract the MongoDB here]
+
+Looks like
+
+
+
+mongod.exe[file][***]
+bsondump.exe[file]
+mongoexport.exe[file]
+mongostat.exe[file]
+mongoimport.exe[file]

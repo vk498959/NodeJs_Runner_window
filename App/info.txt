@@ -1,0 +1,9 @@
+[Enter your Project folder here] 
+
+Looks like
+
+Index.js [main javascript file][***]
+view[folder]
+controller[folder]
+node_module[folder]
+someother.js[file]
